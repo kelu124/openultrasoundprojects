@@ -45,13 +45,13 @@ ListProjects = ""
 for project in DATA["OSP"].keys():
 	Cles = DATA["OSP"][project].keys()
 	if "Site" in Cles:
-		ListProjects += "\n### ["+project+"]("+DATA["OSP"][project]["Site"]+")\n"
+		ListProjects += "\n## ["+project+"]("+DATA["OSP"][project]["Site"]+")\n"
 	else:
-		ListProjects += "\n### "+project+"\n"
+		ListProjects += "\n## "+project+"\n"
 
 	if "Desc" in Cles:
 	    if len(DATA["OSP"][project]["Desc"]):
-		ListProjects += "#### Description\n"+DATA["OSP"][project]["Desc"]+"\n"
+		ListProjects += "### Description\n"+DATA["OSP"][project]["Desc"]+"\n"
 
 	if "Tags" in Cles:
 	    if len(DATA["OSP"][project]["Tags"]):

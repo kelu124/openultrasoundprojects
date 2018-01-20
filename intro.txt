@@ -5,6 +5,6 @@
 It's simply a a curated list of open source ultrasound projects, whatever the use of ultrasounds.
 
 
-## List of Open Ultrasound projects
+# List of Open Ultrasound projects
 
 
