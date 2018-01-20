@@ -4,6 +4,9 @@
 
 It's simply a a curated list of open source ultrasound projects, whatever the use of ultrasounds.
 
+## How do I add my project?
+
+Fork https://github.com/kelu124/openultrasoundprojects, edit the OSProjects.md file, and push it back.
 
 # List of Open Ultrasound projects
 
