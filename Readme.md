@@ -11,6 +11,10 @@ It's simply a a curated list of open source ultrasound projects, whatever the us
 
 
 ### [Ultrasound Tool Kit](https//github.com/lagadic/ustk)
+#### Description
+La librairie USTK rassemble des utilitaires. "Nous souhaitons maintenant mettre ces outils à la disposition d'une plus vaste communauté. D'autres laboratoires et centres de R&D pourraient vouloir les utiliser pour prototyper ou développer leurs propres applications médicales temps réel."
+* Some tags: library, processing
+* Some references: http//emergences.inria.fr/2018/newsletter-n50/l50-ustk
 
 ### [NiftyNet: a deep-learning platform for medical imaging](https//github.com/NifTK/NiftyNet)
 * Some references: https//arxiv.org/abs/1709.03485
@@ -23,29 +27,45 @@ CloudedBats WURB is a bat detector for passive monitoring. It can be use either 
 
 ### [ultrasHound - a ultrasound beacon detector](https//hackaday.io/project/25095-ushound)
 #### Description
-Tracking ultrasound tracking
-* Some tags: beacon, tracking
+Tracking ultrasound tracking  it's a device telling you in real time if there's a ultrasound beacon close to you, and ultimately to extract the payload from the beacon - but also why not being yourself a beacon to tell the indelicate listeners to gtfo !
+* Some tags: beacon, tracking, smartphone, xtracking, lisnr
+* Some references: https//hackaday.io/project/25095-ushound
+
+### [Columbia Open Source Ultrasound](https//github.com/ColumbiaOpenSourceUltrasound)
 
 ### [echOpen](http//www.echopen.org)
 #### Description
-Open source ultrasound
-* Some tags: hardware, software, imaging
+Collaborative project of designing a functional low-cost (affordable) and open source connected echo-stethoscope (ultrasound probe)
+* Some tags: hardware, software, imaging, smartphone
+* Some references: https//github.com/echopen/
 
 ### [Ultrasonic Levitation Rig](https//hackaday.io/project/2120-ultrasonic-levitation-rig)
+#### Description
+Attemting to build a proof of concept ultrasonic levitation rig, for the kind of change you have shoved in your pocket after a night out.
+* Some tags: levitation
+* Some references: https//www.youtube.com/watch?v=qy1w6rTpC2g
 
 ### [FloWave.US](https//github.com/ccoolbaugh/FloWave.US)
+#### Description
+Matlab Program for Automated Ultrasound Blood Flow Analysis
 * Some tags: matlab, software, imaging
 * Some references: https//www.ncbi.nlm.nih.gov/pmc/articles/PMC5142308/
 
 ### [Ultrasonic Directional Speaker v1](https//hackaday.io/project/9085-ultrasonic-directional-speaker-v1)
 
 ### [MRgHIFU system on a small-animal MRI scanner](https//github.com/poormanme)
+#### Description
+Detailing a validated, open-source preclinical MRgFUS system capable of delivering thermal and mechanical FUS in a quantifiable and repeatable manner under real-time MRI guidance.
 * Some tags: hardware, software, imaging
 * Some references: http//www.vuiis.vanderbilt.edu/~poormame/Opensource_MEPoorman.pdf
 
 ### [World's Smallest Bat Detector](https//hackaday.io/project/8353-worlds-smallest-bat-detector)
 
 ### [Sonar for the visually impaired](https//hackaday.io/project/5903-sonar-for-the-visually-impaired)
+#### Description
+This is a low cost portable Ultrasonic range finder and sonar device to help a visually impaired person navigate indoors.
+* Some tags: sonar, blind
+* Some references: https//github.com/FPGA-Computer/Swiftlet
 
 ### [Slow sound radar](https//hackaday.io/project/5944-slow-sound-radar)
 
@@ -55,6 +75,8 @@ Open source ultrasound
 * Some references: https//github.com/KitwareMedical/TubeTK-pypbm
 
 ### [Murgen](https//github.com/kelu124/murgen-dev-kit)
+#### Description
+A beaglebone black based open-source, low-cost technological DIY kit to allow scientists, academics, hackers, makers or OSH fans to hack their way to ultrasound imaging.
 * Some tags: hardware, software, imaging
 * Some references: https//www.youngscientistjournal.org/article/development-of-a-portable-and-inexpensive-ultrasound-imaging-device-for-use-in-the-developing-world
 
@@ -67,3 +89,7 @@ Open source ultrasound
 ### [PLUS: open-source toolkit for ultrasound-guided intervention systems](http//pubmedcentralcanada.ca/pmcc/articles/PMC4437531/)
 
 ### [Pathfinder - Haptic Navigation](https//hackaday.io/project/2372-pathfinder-haptic-navigation)
+#### Description
+Pathfinder is a wearable device that translates distance into haptic feedback. Users just wear the wristband (or glove) and point at objects up to 500 centimeters away, and feel gentle pulses at their fingertips corresponding to the object's distance. It’s designed to give the user greater freedom of motion and longer operational range than traditional navigation solutions for the blind, such as the cane. I incorporated research ranging from embedded electronics to the neuroscience of touch to turn this simple concept into the best prototype I could, before sharing the device with my local community center for the blind.
+* Some tags: sonar, blind
+* Some references: https//github.com/neilmovva/pathfinder

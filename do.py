@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+
+
 import re
 
 
@@ -37,6 +40,8 @@ for line in OSP.readlines():
 print DATA
 
 ListProjects = ""
+
+
 for project in DATA["OSP"].keys():
 	Cles = DATA["OSP"][project].keys()
 	if "Site" in Cles:
