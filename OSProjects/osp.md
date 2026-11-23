@@ -151,6 +151,12 @@ K.C. Lee
 * Tags:
 * Refs: 
 
+## TUFR: Teensy Ultrasonic Field Recorder
+
+* Site:https://github.com/JayB545/Teensy-Ultrasonic-Field-Recorder
+* Desc:This is a miniature field recorder for ultrasonic recording of multi-channel audio at sample rates of 48-192kHz (1, 2 or 4 channels), 384 kHz (1-2 channels), or 768 kHz (1 channel). Data are written in WAV or FLAC format. Contiguous, gap-free files can be written for days at a time, or the user can choose a duty cycle. Firmware is written for the Teensy 4.1 micro-controller and hardware designs are provided for the do-it-yourselfer.
+* Tags:hardware,software,imaging
+* Refs:
 
 
 ## TubeTK
